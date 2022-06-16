@@ -66,7 +66,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 | Outlier detection: Methods, models, and classification | ACM Comput. Surv. | 2020 |  _Boukerche et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3381028)] |
 | A comprehensive survey of anomaly detection techniques for high dimensional big data | J. Big Data | 2020 | _Thudumu et al._ | [[Paper](https://link.springer.com/article/10.1186/s40537-020-00320-x)] |
 | Machine learning techniques for network anomaly detection: A survey | Int. Conf. Inform. IoT Enabling Technol | 2020 | _Eltanbouly et al._ | [[Paper](https://ieeexplore.ieee.org/iel7/9081868/9089428/09089465.pdf)] |
-| Fraud detec- tion: A systematic literature review of graph-based anomaly detection approaches | Decis. Support Syst. | 2020 | _Pourhabibi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Fraud detection: A systematic literature review of graph-based anomaly detection approaches | Decis. Support Syst. | 2020 | _Pourhabibi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | A comprehensive survey on network anomaly detection | Telecommun. Syst. | 2020 | _Fernandes et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | A survey of deep learning-based network anomaly detection | Clust. Comput. | 2019 | _Kwon et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
  Combining machine learning with knowledge engineering to detect fake news in social networks-a survey | AAAI Conf. Artif. Intell | 2019 | _Hunkelmann et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
