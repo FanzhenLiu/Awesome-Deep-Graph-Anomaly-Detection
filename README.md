@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) 
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.
+A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.   
 
 - [Awesome-Deep-Graph-Anomaly-Detection](#awesome-deep-graph-anomaly-detection)
   - [A Timeline of graph anomaly detection](#a-timeline-of-graph-anomaly-detection)
